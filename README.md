@@ -1,4 +1,4 @@
-### Welcome to Surya's repository!
+### Welcome to Surya's GitHub!
 
 <!--
 **suryadheeshjith/suryadheeshjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
