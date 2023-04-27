@@ -1,5 +1,12 @@
 ### Welcome to Surya's GitHub!
 
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=suryadheeshjith&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+![Dhruv Shetty's Github stats](https://github-readme-stats.vercel.app/api?username=suryadheeshjith&count_private=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadheeshjith&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+
 <!--
 **suryadheeshjith/suryadheeshjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
