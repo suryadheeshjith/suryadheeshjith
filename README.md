@@ -1,23 +1,22 @@
-### Welcome to Surya's GitHub!
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Surya%20Dheeshjith&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=30" /></a>
+</p>
 
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suryadheeshjith&column=3&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-![Dhruv Shetty's Github stats](https://github-readme-stats.vercel.app/api?username=suryadheeshjith&count_private=true&theme=tokyonight)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Machine%20Learning;Computer%20Vision;Generative%20AI;Climate%20Research&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryadheeshjith&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryadheeshjith&label=Profile%20views&color=0e75b6&style=flat" alt="suryadheeshjith" /> </p>
 
-<!--
-**suryadheeshjith/suryadheeshjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryadheeshjith" alt="suryadheeshjith" /></a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryadheeshjith&show_icons=true&locale=en&layout=compact" alt="suryadheeshjith" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryadheeshjith&show_icons=true&locale=en" alt="suryadheeshjith" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadheeshjith&" alt="suryadheeshjith" /></p>
